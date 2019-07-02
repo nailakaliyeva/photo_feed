@@ -1,0 +1,47 @@
+body{
+    background: rgb(218, 204, 204);
+    margin: 0px;
+}
+
+.header{
+    background: white;
+    width: 100%;
+    height: 95px;
+    /* margin-top: -5%; */
+}
+.heading{
+    font-size: 2em;
+    text-align: center;
+    padding: 2%;
+}
+.whiteBox{
+    background: white;
+    width: 55%;
+    margin: auto;
+
+}
+.photoName, .date{
+    font-size: 1.4rem;
+    padding: 1.4rem;
+}
+.top{
+    margin-top: 4%;
+    display: flex;
+    justify-content: space-between;
+}
+.date{
+    opacity: 0.5;
+    font-style: italic;
+    font-size: 1.4rem;
+}
+.photoText{
+    font-size: 2rem;
+    padding: 3%;
+}
+.image img {
+    width: 100%;
+}
+
+p {
+    margin: 0px;
+}
